@@ -1,0 +1,53 @@
+
+.jumbotron {
+	background-color: #000;
+	width: 100%;
+	padding: 20px;
+	font-family: 'Architects Daughter';
+	text-align: center;
+	color: red;
+	
+}
+
+.card-deck {
+	height: 500px;
+}	
+
+.card-title {
+	text-align: center;
+	font-family: 'Architects Daughter';
+	font-weight: bold;
+	font-size: 24px;
+}	
+
+.card {
+	overflow: hidden;
+	padding: 0;
+	border: none;
+	border-radius: .28571429rem;
+	box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+}
+
+.card-block {
+	position: relative;
+	margin: 0;
+	padding: 1em;
+	border: solid; 
+	border-top: 1px solid rgba(34,36,38, .1);
+	box-shadow: none;
+	
+}
+
+.card-img-top {
+	display: block;
+	width: 100%;
+	height: 280px;
+	border: solid;
+}	
+
+.button {
+	margin: auto;
+	text-align: center;
+}	
+
+	
